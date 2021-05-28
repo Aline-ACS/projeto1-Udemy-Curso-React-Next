@@ -1,4 +1,3 @@
-import { Component } from 'react';
 import './styles.css';
 
 export const Button = ({ text, onClick, disabled }) => (
